@@ -9,8 +9,8 @@ It's easy shooter mini-game.
 
 **MECHANICS:**
 
--<ins>SHOOT</ins> - SPACE
+<ins>SHOOT</ins> - SPACE
 
--<ins>HP</ins> - 3/3
+<ins>HP</ins> - 3/3
 
--<ins>RELOAD</ins> - 3sec
+<ins>RELOAD</ins> - 3sec
